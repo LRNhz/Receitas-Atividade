@@ -1,0 +1,26 @@
+ .navbar {
+            background-color: white;
+        }
+        .logo {
+            max-width: 200px;
+            margin: 20px auto;
+        }
+        .main-content {
+            text-align: center;
+        }
+        .footer {
+            background-color: #f8f9fa;
+            padding: 20px;
+            text-align: center;
+        }
+        .container {
+            margin-top: 50px;
+        }
+        .btn-primary {
+            background-color: #2a2c2b;
+            border-color: #2a2c2b;
+        }
+        .btn-primary:hover {
+            background-color: #3b3e3d;
+            border-color: #3b3e3d;
+        }
